@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/PerformanceTest_CSLA/v16
+/PerformanceTest_CSLA4/MigrationBackup/a37a49e0/PerformanceTest_CSLA4
+/PerformanceTest_CSLA4/.vs/PerformanceTest_CSLA4/v16
+/PerformanceTest_CSLA4/PerformanceTest_CSLA4/bin/Debug
+/PerformanceTest_CSLA4/PerformanceTest_CSLA4/obj
+/PerformanceTest_CSLA5/.vs/PerformanceTest_CSLA5/v16
+/PerformanceTest_CSLA5/MigrationBackup/39b2b34f/PerformanceTest_CSLA5
+/PerformanceTest_CSLA5/PerformanceTest_CSLA5/bin/Debug
+/PerformanceTest_CSLA5/PerformanceTest_CSLA5/obj
+/.vs

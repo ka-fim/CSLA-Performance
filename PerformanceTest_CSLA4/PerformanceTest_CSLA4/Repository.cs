@@ -4,7 +4,7 @@ namespace PerformanceTest_CSLA4
 {
     public class Repository
     {
-        public const int ItemsCount = 100000;
+        public const int ItemsCount = 10000;
 
         public IEnumerable<PerformanceTestDto> GetAll()
         {

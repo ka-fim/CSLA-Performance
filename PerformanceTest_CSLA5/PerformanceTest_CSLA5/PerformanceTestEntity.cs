@@ -16,8 +16,8 @@ namespace PerformanceTest_CSLA5
             return dp.Fetch();
         }
 
-        //[FetchChild]
-        private void Child_Fetch(params object[] parameters)
+        [FetchChild]
+        private void Fetch(params object[] parameters)
         {
             var dto = (PerformanceTestDto) parameters[0];
 

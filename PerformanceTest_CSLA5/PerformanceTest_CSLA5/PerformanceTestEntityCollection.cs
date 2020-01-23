@@ -6,8 +6,8 @@ namespace PerformanceTest_CSLA5
     [Serializable]
     public class PerformanceTestEntityCollection : BusinessListBase<PerformanceTestEntityCollection, PerformanceTestEntity>
     {
-        //[Fetch]
-        private void DataPortal_Fetch()
+        [Fetch]
+        private void Fetch()
         {
             var repository = new Repository();
 

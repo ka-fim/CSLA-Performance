@@ -5,7 +5,7 @@ namespace PerformanceTest_CSLA5
 {
     public class Repository
     {
-        public static int ItemsCount = 10000;
+        public static int ItemsCount = 100_000;
 
         public IEnumerable<PerformanceTestDto> GetAll()
         {

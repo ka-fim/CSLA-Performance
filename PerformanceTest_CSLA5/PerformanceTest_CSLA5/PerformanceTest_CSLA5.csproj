@@ -57,13 +57,13 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Csla">
-      <Version>5.1.0-R20012201</Version>
+      <Version>5.5.4</Version>
     </PackageReference>
     <PackageReference Include="Microsoft.Extensions.DependencyInjection">
-      <Version>3.1.1</Version>
+      <Version>3.1.9</Version>
     </PackageReference>
     <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions">
-      <Version>3.1.1</Version>
+      <Version>3.1.9</Version>
     </PackageReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
